@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/samat
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://samat.me
+  * I am samat (https://keybase.io/samat) on keybase.
+  * I have a public key with fingerprint 7A02 13AE B4A7 C671 9490  0978 D074 5471 F28C D69D
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010165aae3d706c68f309f7a3e407fb2deb67358bd245c0ce84ff9e107af1a7dc53a0a",
+            "fingerprint": "7a0213aeb4a7c67194900978d0745471f28cd69d",
+            "host": "keybase.io",
+            "key_id": "d0745471f28cd69d",
+            "kid": "010165aae3d706c68f309f7a3e407fb2deb67358bd245c0ce84ff9e107af1a7dc53a0a",
+            "uid": "f3a1e206d72b89bfc93fedd82aa4bc19",
+            "username": "samat"
+        },
+        "service": {
+            "hostname": "samat.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1454689113,
+    "expire_in": 157680000,
+    "prev": "1d94ff7d81620572ec46f469b733a419f214df46f24d433447f7579ec46e86d3",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.49
+Comment: https://keybase.io/crypto
+
+yMIcAnicrVJfSBRBHD7PFJMEn4wyUIcoCJGd3dmd3UPsj0qST5YJpXjO7sx6y+Xd
+ebeeigYe+CcfSlMULJAyNA0iqKzoH/2xhzLwKSqlhyAyq8uCC8QwmpWCHnpsXmbm
+m+/7zff9+M1kJLvSk8rHv97ztU+lJs0+7GtyVV2fPdIG9CBtBZ424GfrGztGWcT2
++i0KPECAAlRkQphEsaAYimpKgmZiIjEkYFMXKdMVLMmqTkUkG4LBVGSaGoMCJiYk
+mBqyRAQC8oFpBepZOBS2AjYvi4kgQokwHRFsKBhqSBMEDatUwEhGGJqialBFo1zo
+C0YcBTenkwgrsIIc4xfvur1/8P+z76b1cqZEIBMFhWJRVzXdNDTJZJSqIiFIN6Dm
+ECMsHCANjLMjpIHY4Hg+4FDUMpjTVSfG388F/JgPQuGgHTSCxzjqs+2QxxHZrSGH
+1cx072+9V7cClPePC6IsHLGCAeCBnGnYllMQ8hYoqgahlA9YS8gKM6/lMGSsqAJf
+zjcsyktCqvGUmKpQEQUZi8xAiokUTceSRBDUTBEiygFTRBRJEkLYxDLWHBpTFSoB
+J1FjIAg8iNsk9U4Wqz5A7KYwA8cfPajZ4EpKd6WmuJ25cqVvzPwzbQP301xjb7Yt
+Du27PXj36tCE2uPd3lFUVgLcHpn83PM2zU7tK3s3h3frvXK4pfBTcc2kEm87UXvw
+5Kl48/RIPGZEsy/O6LmjP18rpYkLnckpl7c0x+tW/e17byzf60qbnKhzq5mxho/u
+qZ1VDbHl5aWu5+6z3YdLrlzLu1nsK/2wSIvmSAFY672zlcS7vz29VVS9rWc8JfOx
++9KT4hgYPpobHfix6K2ezjo/1b+a6KlZGijNHUvN2KiW+L/vOD1fnnjVWVn65Uxt
+tvB5YfBd2rOVgcr2rPdodr7Nl1fRsSuvonbh5Yiuqy8m164sDY165lcaDz3uP5DY
+NFy4uXX/OSMn5xfcGT5P
+=I22F
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/samat
+
+==================================================================
